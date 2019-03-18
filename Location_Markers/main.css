@@ -1,0 +1,37 @@
+/*
+Ramy Huffman
+rabdelsa@my.smccd.edu
+CIS 114 OL
+main.css
+Assignment #8
+December 15, 2017
+*/
+
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 0.8em;
+}
+#map {
+	float: left;
+	width: 800px;
+	height: 600px}
+ul {
+	float: left;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+ul li a	{
+	display: block;
+	width: 100px;
+	padding: 10px;
+	margin: 0 5px 5px; 
+	background-color:#ccc;
+}
+
+
+
+
+
+
